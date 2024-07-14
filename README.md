@@ -1,6 +1,6 @@
-# Instagram Metrics Bot
+# Instagram Metrics Telegram Bot
 
-The **Instagram Metrics Bot** is a Python-based Telegram bot designed to interact with Instagram through Instaloader. It allows users to log in to their Instagram account, view followers, users not following back, and followers not followed back. The bot provides a seamless interface using Telegram's interactive buttons for navigation and language selection.
+The **Instagram Metrics Telegram Bot** is a Python-based Telegram bot designed to interact with Instagram through Instaloader. It allows users to log in to their Instagram account, view followers, users not following back, and followers not followed back. The bot provides a seamless interface using Telegram's interactive buttons for navigation and language selection.
 
 ## 1. Features:
 
